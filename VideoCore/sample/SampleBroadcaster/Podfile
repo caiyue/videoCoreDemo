@@ -1,0 +1,5 @@
+platform :ios, '6.0'
+
+target :'SampleBroadcaster' do
+pod 'VideoCore', '~>0.3.2'
+end
